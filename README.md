@@ -12,4 +12,4 @@ pip install requests
 
 # CONTATO
 
-JpCooDz#.
+JpCooDz.
